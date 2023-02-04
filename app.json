@@ -1,6 +1,6 @@
 {
-  "name": "TechnoAyanBoT",
-  "description": "Extended Version of Uniborg By @TechnoAyanOfficial",
+  "name": "AlphaXuserbot",
+  "description": "An powerful Telegram userbot",
   "logo": "https://telegra.ph/file/c40c645eb602e192ec442.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TechnoAyanOfficial/TechnoAyanBoT",
+  "repository": "https://github.com/utkarshdubey2008/AlphaXuserbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
