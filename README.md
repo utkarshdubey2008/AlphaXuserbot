@@ -7,6 +7,7 @@
 <h2 align="center">Updates and Support</h2>
 <p align="center">Join our <a href="https://t.me/alpha_bot_updates">Telegram Channel</a> for update notifications!</p>
 <p align="center">Also join our <a href="https://t.me/alpha_bot_support">Telegram Support Group</a> for help and support!</p>
-
-
+<h5 align=center > Devs
+[Aaditya](https://github.com/PyAaDitya)
+[Ayato](https://github.com/CUSTOMFAIL)
 
